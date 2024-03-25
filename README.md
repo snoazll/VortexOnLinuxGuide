@@ -20,23 +20,29 @@ Whether you use Nautilus (Gnome) or Dolphin (KDE), you have an easier way to lin
 
 ln isn't necessary, but learning ln is a good skill. It's 2024, Linux and its tools are a standard, not a hobby. I work in Logistics, but even I wouldn't hire someone who can't use ln. I also famously didn't give my blessings to my granddaughter as she wanted to marry someone who didn't even post on r/unixporn. Disgusting.
 
+## Where to position Vortex Mods
+
+Vortex Mods folder where mods are being stored should be positioned within your game's Proton prefix, because Vortex doesn't allow mods to exist on different drives and prefixes are registered as different drivers.
+
+You can also symlink your Vortex Mods folder into your game's Proton prefix - but I'm not entirely sure if this would work.
+
 ### SymLink Game Folder
 
 The ideal way of doing this is by symlinking the .../steamapps/common/game folder to somewhere like ~/Games/ so that Proton and Vortex won't have to look for permissions to write on other prefixes.
 
 ### SymLink AppData Folder
 
-This is essential as Vortex makes use of this folder to do things and stuff. Vortex relies on AppData folder to deploy mods.
+This is essential as Vortex relies on this folder and wants this folder to be in the same drive as the game in order to properly deploy mods.
 
-[Method Here]
+You will have to symlink the AppData folder in your Vortex Proton prefix into game's Proton prefix.
 
 Please don't confuse AppData and ApplicationData as ApplicationData is itself a symbolic link of AppData.
 
 ### SymLink Documents Folder
 
-This is to ensure your Skyrim configuration is made use of Vortex's Proton prefix.
+This is to ensure your Skyrim configuration is used by Vortex's Proton prefix, because you will be running Vortex's proton, not your game's. It will update your game's prefix over Vortex's prefix.
 
-Symlink 
+Symlink the Documents folder in your game's Proton prefix into Vortex Proton prefix.
 
 ### (Optional?) Install SKSE/F4SE
 
