@@ -27,6 +27,11 @@ The VortexMods folder (or whatever you name it) where mods are being stored shou
 
 You can also symlink your VortexMods folder to your game's Proton prefix, but I'm not entirely sure if this would work. It should theoretically work, but the world is a simulation, so it might not.
 
+#### A Fair Warning About This Staging Folder
+Back this folder up. One Proton Prefix change on Skyrim's side, and this folder is gone; you're going back to adding your mods over and over again in that case.
+
+It might be possible to make this folder not removable by Proton, but I wouldn't bet my money on that - and that would just make things unnecessarily complex. So, it would be better to back this folder to an external HDD just in case and copy over in case of a Proton version change etc.
+
 ### SymLink Game Folder
 
 The ideal way of doing this is by symlinking the 
