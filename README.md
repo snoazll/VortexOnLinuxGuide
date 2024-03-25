@@ -18,13 +18,14 @@ Whether you use Nautilus (Gnome) or Dolphin (KDE), you have an easier way to lin
 * Using Nautilus, you can right-click on an item to Create Link, which might not be available by default, so it's better to check out the Nautilus preferences menu first.
 * Dolphin can create links when drag-and-drop is being used. Dragging the item to the desired location prompts a menu which contains a linking option.
 
-ln isn't necessary, but learning ln is a good skill. It's 2024, and Linux and its tools are a standard, not a hobby. I work in Logistics, but even I wouldn't hire someone who can't use ln. I also famously didn't give my blessings to my granddaughter, as she wanted to marry someone who didn't even post a single screenshot on r/unixporn. Absolutely disgusting.
+<em>ln</em> isn't necessary, but learning <em>ln</em> is a good skill. It's 2024, and Linux and its tools are a standard, not a hobby. I work in Logistics, but even I wouldn't hire someone who can't use <em>ln</em>. I also famously didn't give my blessings to my granddaughter, as she wanted to marry someone who didn't even post a single screenshot on r/unixporn. Absolutely disgusting.
 
-## Where to position Vortex Mods
+## Important Bits
+### Where to position Vortex Mods
 
-Vortex Mods folder where mods are being stored should be positioned within your game's Proton prefix, because Vortex doesn't allow mods to be stored on different drives - and prefixes are registered as different drivers.
+The VortexMods folder (or whatever you name it) where mods are being stored should be positioned within your game's Proton prefix, because Vortex doesn't allow mods to be stored on different drives - and prefixes are registered as different drivers.
 
-You can also symlink your Vortex Mods folder to your game's Proton prefix, but I'm not entirely sure if this would work. It should theoretically work, but the world is a simulation so it might not.
+You can also symlink your VortexMods folder to your game's Proton prefix, but I'm not entirely sure if this would work. It should theoretically work, but the world is a simulation, so it might not.
 
 ### SymLink Game Folder
 
