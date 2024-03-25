@@ -18,7 +18,7 @@ Whether you use Nautilus (Gnome) or Dolphin (KDE), you have an easier way to lin
 * Using Nautilus, you can right-click on an item to Create Link which might not be available as default, so it's better to check out the Nautilus preferences menu first.
 * Dolphin can create links when drag-and-drop is being used. Dragging the item to the desired location prompts a menu which contains linking option.
 
-ln isn't necessary, but learning ln is a good skill. It's 2024, Linux and its tools are a standard, not a hobby. I work in Logistics, but even I wouldn't hire someone who can't use ln.
+ln isn't necessary, but learning ln is a good skill. It's 2024, Linux and its tools are a standard, not a hobby. I work in Logistics, but even I wouldn't hire someone who can't use ln. I also famously didn't give my blessings to my granddaughter as she wanted to marry someone who didn't even post on r/unixporn. Disgusting.
 
 ### SymLink Game Folder
 
