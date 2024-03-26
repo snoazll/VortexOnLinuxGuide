@@ -74,9 +74,29 @@ as,
 
 Symlink the Documents folder in your game's Proton prefix into the Vortex Proton prefix.
 
-### (Optional?) Install SKSE/F4SE
+### Install SKSE/F4SE
 
-I'm not entirely sure if this is necessary, but manual installation of Script Extenders can be a big help.
+If you're going to mod your game to hell using Script Extenders, install them manually. This is usually copying the SKSE/F4SE folder contents into the game folder.
+
+## How to Launch the Game?
+
+I think it's quite obvious that this guide is written with Skyrim in mind. That's true. However, the biggest advantage of Vortex is Deployment. This means that it deploys links to the game folder, and configuration is done on these files. This indicates you don't have to launch your game through your mod manager; instead, you can just use your mod managers as a management system for your mods and nothing else.
+
+This is important as you should be launching your game by almost normal means. If you have installed SKSE/F4SE, go ahead and rename the Script Extender Loader as your game's main launcher executable, after you back up that file.
+
+So, for instance,
+
+> SkyrimSELauncher.exe
+
+should be renamed to something like,
+
+> SkyrimSELauncher.exe.old
+
+and you should be renaming your Script Extender Loader executable as,
+
+> SkyrimSELauncher.exe
+
+so that Steam will run the game through the script extender.
 
 ## Some Thingies
 ### Why not use ModOrganizer2?
