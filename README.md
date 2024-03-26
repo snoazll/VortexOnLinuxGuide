@@ -58,7 +58,7 @@ as
 
 > .../compatdata/$SteamGameID/.../AppData
 
-Please don't confuse AppData and ApplicationData, as ApplicationData is itself a symbolic link to AppData.
+Please don't mistake AppData and ApplicationData, as ApplicationData is itself a symbolic link to AppData.
 
 ### SymLink Documents Folder
 
