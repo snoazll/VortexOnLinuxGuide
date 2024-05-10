@@ -98,6 +98,20 @@ and you should be renaming your Script Extender Loader executable as,
 
 so that Steam will run the game through the script extender.
 
+## Flatpak Notes
+If you're using Steam Flatpak, which I've been doing for a few weeks now, your mod staging folder being under .var/.../compatdata/$GameID might cause some mods not being able to be written and copied properly.
+
+This could be avoided if you set the same ~/Games folder you've used above as your mod staging folder and move it to Skyrim's compatdata folder, then link it back to ~/Games folder.
+
+The most important thing about flatpak is to be able to give permission to Steam. Use something like Flatseal and add whichever folder (mine is ~/Games) you're using to manage your operations.
+
+The procedure should be done like below.
+
+(1) Set the mod staging folder under ~/Games using Vortex.
+(2) Move the folder into Skyrim/Fallout compatdata folder.
+(3) Create a symlink and move the link to ~/Games folder.
+(4) Cats!
+
 ## Some Thingies
 ### Why not use ModOrganizer2?
 
