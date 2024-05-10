@@ -1,0 +1,265 @@
+.
+├── 00 - Foundation - Systems
+│   ├── Animation Motion Revolution-50258-1-5-3-1664395662.rar
+│   ├── Animation Queue Fix-82395-1-0-1-1673338766.7z
+│   ├── Base Object Swapper-60805-2-6-1-1693305757.7z
+│   ├── ConsoleUtilSSE-24858-1-4-0-1665802090.zip
+│   ├── ConsoleUtilSSE NG-76649-1-5-1-1704108553.7z
+│   ├── DiskCacheEnabler-1.2-100975-1-2-1705561431.zip
+│   ├── Dual Casting Fix-92454-1-0-1685396946.7z
+│   ├── Flute Animation Fix-69609-1-1-1691766482.zip
+│   ├── FormList Manipulator - FLM-74037-1-7-1-1690989877.zip
+│   ├── Fuz Ro D'oh-15109-2-5-1706039953.7z
+│   ├── Inventory Interface Information Injector (SE)-85702-1-1-0-1713968718.7z
+│   ├── JContainers GOG-16495-4-2-12-1710863522.7z
+│   ├── Keyword Item Distributor-55728-3-4-0-1710234193.7z
+│   ├── MCM Helper-53000-1-5-0-1702843613.7z
+│   ├── MergeMapper-74689-1-5-0-1683883576.7z
+│   ├── MFgFixNG-114095-0-1-5-1710791306.7z
+│   ├── Paired Animation Improvements-99621-1-0-2-1706671876.7z
+│   ├── Papyrus Extender-22854-5-6-2-1702301038.7z
+│   ├── PapyrusUtil AE SE - Scripting Utility Functions-13048-4-6-1705639805.zip
+│   ├── powerofthree's Tweaks-51073-1-9-2-1709669231.7z
+│   ├── Sonders Keyword Distribution Resources-93995-1-4-1713154557.zip
+│   ├── SSE Display Tweaks-34705-0-5-16-1703410713.zip
+│   └── UIExtensions v1-2-0-17561-1-2-0.7z
+├── 01 - Foundation
+│   ├── Achievements Mods Enabler SE-AE-245-1-2-1663727254.zip
+│   ├── All in one Address Library (Anniversary Edition)-32444-11-1707902394.zip
+│   ├── BodySlide and Outfit Studio - v5.6.3-201-5-6-3-1693153421.7z
+│   ├── FNIS Behavior SE 7_6 XXL-3038-7-6-1582110624.7z
+│   ├── Nemesis Unlimited Behavior Engine-60033-v0-84-beta-1639426722.rar
+│   ├── Open Animation Replacer-92109-2-2-2-1710694356.7z
+│   ├── Scrambled Bugs - Anniversary Edition (1.6.629.0 and later)-43532-21-1678779028.7z
+│   ├── SkyPatcher - AE-106659-2-4-11-1-1711802000.zip
+│   ├── Skyrim Script Extender (SKSE64)-30379-2-2-6-1705522967.7z
+│   └── XP32 Maximum Skeleton Special Extended-1988-5-06-1707663131.7z
+├── 02 - Bodies Skins Hairs
+│   ├── BnP female skin 2k (CBBE Player and Replacer)-65274-2-0-1688931865.7z
+│   ├── Bosmer NPCs have antlers - FOMOD Installer-33349-0-7-1660738867.7z
+│   ├── Caliente's Beautiful Bodies Enhancer CBBE - v2.0.3-198-2-0-3-1712683181.7z
+│   ├── CBBE 3BA (3BBB)-30174-2-47-1676473395.7z
+│   ├── CBBE AE-CC Outfits-198-2-0-3-1712683252.7z
+│   ├── CBPC - Fomod installer - MAIN FILE-21224-1-6-4-1708114426.rar
+│   ├── Hvergelmir's Aesthetics - Beards 5.0.1-1067-5-0-1-1553198800.rar
+│   ├── KS Hairdos SSE-6817-1-9-1645369981.7z
+│   ├── Racial Body Morphs-65047-1-00-1648503549.7z
+│   ├── RSSE Children Overhaul 1.1.3 with hotfix 1-2650-1-1-3HF1-1583835543.7z
+│   ├── The Witcher 3 Eyes-2921-2-1.7z
+│   └── Wolfpaint - Face - Racemenu Overlays - Male and Female-30255-1-0-MF-1573895529.7z
+├── 03 - Environment
+│   ├── Animated Carriage-112397-1-0-0-1708712264.7z
+│   ├── Animated Carriage Additional Route-112548-1-5-1712655035.7z
+│   ├── Animated Ships-110260-1-2-0-1709576413.7z
+│   ├── Blowing in the Wind Lite (moveable lanterns with Base Object Swapper)-61161-1-7-1674937656.rar
+│   ├── Daedric Shrines 2 k-78772-1-01-1668535036.zip
+│   ├── Environs - Abandoned Abodes-82410-1-03-1700898122.7z
+│   ├── Environs - Hroggar's House-83457-2-01-1693030926.7z
+│   ├── Environs - Kolskeggr-78477-3-02-1700639862.7z
+│   ├── Environs - Master Plugin-91160-2-00-1685411803.7z
+│   ├── Environs - Riften Warehouse-88024-2-01-1708681769.zip
+│   ├── Environs - The Greenwood Shack-73732-3-00-1685323156.7z
+│   ├── Environs - The Ruined Tundra Farmhouse-72981-3-01-1690441146.7z
+│   ├── Environs - The Shrines of Talos-85141-3-01-1708851203.7z
+│   ├── Environs - The Western Watchtower-76261-3-00-1685320188.7z
+│   ├── ESOImports 10 0 1-11729-10-0-1-1669577218.zip
+│   ├── Folkvangr - Grass and Landscape Overhaul-44899-1-3-1617905410.rar
+│   ├── Gildergreen Regrown-348-2-0-1-1557351574.7z
+│   ├── Immersive Laundry 1.0d SSE-2011-1-0d.7z
+│   ├── JK's Skyrim all in one-6289-1-7-1614998676.zip
+│   ├── Laundy Improvements 1.0-20346-1-0.7z
+│   ├── Missives Notes Retexture-46201-1-0-1614289834.zip
+│   ├── Murder of Songbirds-111766-1-2-1712634540.7z
+│   ├── Northern Roads-77530-1-3-1-1685042487.7z
+│   ├── Oblivion Gates Remade 118-9040-1-18-1646803374.7z
+│   ├── Ryn's Azura's Shrine-86592-1-2-1680296531.rar
+│   ├── s6o6t LORE - DARaD AE ESPFE-51010-5-1-1683221879.7z
+│   ├── Simply Bigger Trees SE-5281-1-0SE.rar
+│   ├── Skyrim Flora Overhaul-2154-2-73-1672931123.7z
+│   ├── Splashes of Storms-72115-1-3-0-1666695424.7z
+│   ├── Trees in Cities - Special Edition-1941-1-0-0.zip
+│   ├── Vivid Weathers - Definitive Edition-2187-2-42-1559391607.7z
+│   ├── Whale Bones on Coasts (SE-AE)-91958-1-1684801021.rar
+│   └── Wildwood Echoes-112008-1-2-1708463586.7z
+├── 04 - Animations
+│   ├── Conditional Expressions-45148-1-27-1679991906.zip
+│   ├── Disable Turn Animation SE I AE-78106-1-0-1667484020.zip
+│   ├── Dynamic Female Hand Warming OAR - Randomized-88506-1-6-1688346043.zip
+│   ├── Dynamic Female Wall Leaning OAR - Randomized-87536-1-3-1688497143.zip
+│   ├── Dynamic Female Weather Idles - OAR-98493-1-3-1711750440.zip
+│   ├── Dynamic Random Spell Idle - Player NPC All-77025-1-6-1707717716.zip
+│   ├── Dynamic Sprint-95561-2-2-1713084531.zip
+│   ├── Dynamic Torch Idle Animations - OAR-103080-1-3-1711669467.zip
+│   ├── EVG Animated Traversal - Framework 2.0 beta-63232-2-0b-1704695318.7z
+│   ├── EVG Animation Variance 1.1-38534-1-1-1646956058.zip
+│   ├── EVG Conditional Idles-34006-1-42-1649384249.zip
+│   ├── EVG conditionals extended-85691-1-3-1683412835.zip
+│   ├── Expressive Facegen Morphs SE-35785-1-0-1595174141.7z
+│   ├── Expressive Facial Animation - Female Edition-19181-1-7-1575746557.7z
+│   ├── Expressive Facial Animation - Male Edition-19532-1-21-1575813430.7z
+│   ├── Modern Female Sitting Overhaul OAR-85599-1-9-1713129336.zip
+│   ├── Movement Behavior Overhaul SE-38950-1-5-1664514459.7z
+│   ├── Regnante Animations Standalone Main Set OAR-75454-1-3-1713155828.zip
+│   ├── Seamless Varied Feminine Idles OAR-92226-1-4-1713110723.zip
+│   ├── Seamless Varied Masculine Idles OAR-96504-1-1-1699467882.zip
+│   ├── Skill Based Dynamic Animations AIO-99842-1-1-1693810678.zip
+│   ├── Smooth Random Jump Animation Rework-59633-1-4-1667280167.zip
+│   ├── Smooth Random Sprint Animation - Full-46193-4-1-1685667761.zip
+│   ├── Sonderbains Vampire Killmove - Vampire Lord Version-75156-1-1663092140.zip
+│   ├── Super Fast Get Up Animation-46714-1-0-1615242774.zip
+│   ├── Take a Seat - OAR Animations-54193-1-01-1685814645.zip
+│   └── Warming Hands-73581-2-1-1681479404.zip
+├── 05 - Gameplay
+│   ├── AE - Bone Wolf Patch-50307-V2-6-1640992174.zip
+│   ├── Alternate Perspective-50307-3-0-6-1692284655.zip
+│   ├── Anniversary Content Patch-50307-V2-6-1640992125.zip
+│   ├── Better Third Person Selection (AE - SE)-64339-0-6-0-1705070014.7z
+│   ├── Campfire 1.12.1SEVR Release-667-1-12-1SEVR.zip
+│   ├── C.O.I.N.-51439-2-1-3-2-1706061595.zip
+│   ├── Convenient Horses-9519-7-1-1641573606.zip
+│   ├── Freyr 1.2.0-88043-1-2-0-1688923816.zip
+│   ├── Frostfall 3.4.1 SE Release-671-3-4-1SE.zip
+│   ├── Hunterborn-7900-1-6-2.7z
+│   ├── Leaps of Faith-53074-1-05-1701557076.rar
+│   ├── Mannaz 3.0.1-87219-3-0-1-1689266411.zip
+│   ├── Missives 2.03 SSE-17576-2-03-1562185360.rar
+│   ├── Ordinator 9.31.0-1137-9-31-0-1635693140.zip
+│   ├── Pick Up Radius-69750-1-8-1657358424.7z
+│   ├── RaceMenu Anniversary Edition v0-4-19-16-19080-0-4-19-16-1706297897.7z
+│   ├── Simple F2F Conversation Kiwami-18685-1-0-1Kiwami.7z
+│   ├── SkyrimsParaglider-53256-1-5-0-1629830063.7z
+│   ├── Skyrim's Paraglider Anniversary Edition-71123-1-11-0-1704159999.7z
+│   └── Skyshards v1.6.0-60748-1-6-0-1640462572.7z
+├── 06 - Gameplay - Immersion
+│   ├── 1.2.1-1668-1-2-1.7z
+│   ├── Animated Clutter SSE-14398-1-9.rar
+│   ├── Dynamic Lowered Hoods-65964-1-0-0-1649069652.7z
+│   ├── Misc Dialogue Edits-28904-1-9-5-1-1714817493.7z
+│   ├── More to Say-22622-9-0-2-1676332853.7z
+│   ├── Security Overhaul SKSE - Add-ons-59529-0-1-9-1-1699596506.7z
+│   ├── Security Overhaul SKSE - Lock Variations-58224-3-2-0-1664066945.7z
+│   ├── Security Overhaul SKSE - Regional Locks-62781-1-0-1-1643681140.7z
+│   ├── Skyrim's Got Talent-50357-1-70-1706046902.rar
+│   └── Vitrium-57242-12-4-2-1657967155.zip
+├── 07 - Gameplay - Combat
+│   ├── Precision-72347-2-0-4-1674360214.7z
+│   └── VioLens - A Killmove Mod SE 2.30-668-2-30-1641929178.7z
+├── 08 - Gameplay - Monsters
+│   ├── 1MorrowindCreaturesSE-50435-2-1622050589.7z
+│   ├── Cannibal Draugr on Solstheim-21238-2-2-1623042542.zip
+│   ├── Diverse Dragons Collection SE-695-2-1-3.zip
+│   ├── Immersive Dragons-18957-1-4-1622330403.7z
+│   └── Talkative Dragons-26955-1-1-1561665154.7z
+├── 09 - Gameplay - Movement
+│   ├── Better Jumping AE-18967-1-8-6-1663530469.zip
+│   └── True Directional Movement-51614-2-2-5-1698369428.7z
+├── 10 - Audio Sound Lines
+│   ├── BA_BardSongs_FOMOD-47202-1-3-1625966592.7z
+│   ├── Bandit Lines Expansion-63733-1-09-1704806726.rar
+│   ├── Brawl Lines Expansion-94070-1-02-1688417773.zip
+│   ├── Ciri Voicepack FULL (Performance)-41364-1-2b-1603331033.zip
+│   ├── Civil War Lines Expansion-77566-1-09-1704808041.rar
+│   ├── Dremora Lines Expansion-100562-1-1-1696946781.zip
+│   ├── Forsworn and Thalmor Lines Expansion-80188-1-02-1704809037.rar
+│   ├── PC Head Tracking - MCM v4.8 SE-11993-v4-8-1629727400.zip
+│   ├── Sound Record Distributor-77815-1-5-0-1708473851.zip
+│   └── Vampire Lines Expansion-83484-1-02-1704808705.rar
+├── 11 - Armours Clothing Outfits
+│   ├── Armor of Intrigue SE-43748-1-3-2-1637184893.7z
+│   ├── Ciri's Outfit 1.5-3679-1-5.7z
+│   ├── Demon Slayer Armor Mashup 2K Downscaled (ESL)-97731-3-2-1710950365.rar
+│   ├── Druid Armor UNP SE-31005-1-1-1578863921.7z
+│   ├── DX Druid Armor - SSE CBBE BodySlide-31704-1-4-1579386045.7z
+│   ├── Dynamic Armor Variants-65963-1-0-5-1665251802.7z
+│   ├── Elmlock Armor and Blade - Main File - 2K Textures-105930-1-2-1-1702481970.7z
+│   ├── ESO Altmer Armor by NewerMind43-33602-43-1584245727.7z
+│   ├── ESO Altmer Armour - SSE CBBE BodySlide-14578-2-1-1545854414.7z
+│   ├── Face Masks of Skyrim-1953-1-1.7z
+│   ├── Grandmaster Ursine Armour - Special Edition v1.0.0-6989-v1-0-0.rar
+│   ├── Keeping Warm Skyrim Special Edition AiO-6492-1-2-0.7z
+│   ├── Main Files-68656-2-0-2-1701526801.7z
+│   ├── Scarves Of Skyrim-109183-v1-1705164238.zip
+│   ├── Sentinel - An Equipment Overhaul-100985-2-2-0-1713491832.7z
+│   ├── Sentinel - Patch Collection-100985-2-0-0-1709520797.zip
+│   ├── Snow White Armor - SE CBBE 3BA v2-41635-2-0-1636384177.7z
+│   ├── The Witcher 3 Female Armours - SSE CBBE BodySlide-14244-2-0.7z
+│   ├── Traveler's Armor Pack - Main File-93138-v1-1686315325.rar
+│   ├── Weapons Armor Clothing and Clutter Fixes - CBBE Patch-19176-1-2-1-1637842419.7z
+│   └── Witcher 3 Yennefer and Ciri Armor - SSE CBBE BodySlide-30355-1-1-1573946365.7z
+├── 12 - Houses
+│   ├── HAt Trick 1.0.8-81722-1-0-8-1710058180.7z
+│   └── Mirele Bismath Reborn 0.4-93817-0-4-1687564301.zip
+├── 13 - NPC
+│   ├── Additional Dremora Faces-97946-1-3-1-1705512582.7z
+│   ├── Bijin NPCs SE 1.2.1-11287-1-2-1.7z
+│   ├── Bijin Warmaidens SE v3.1.3-1825-3-1-3.7z
+│   ├── Default Face NPCs Fixed-54515-1-17-1703294553.7z
+│   ├── Gesture Animation Remix (OAR) - main archive-64420-2-1-1-1708878617.zip
+│   ├── Immersive Folded Hands (OAR)-62849-1-6-1-1702779233.zip
+│   ├── NPC Animation Remix (OAR) - main archive-63471-1-9-0-1714223376.zip
+│   ├── SSE NoUnique Minor 2.51-92277-2-51-1688738885.7z
+│   └── SSE Unique Minor 2.52-92277-2-52-1688854122.7z
+├── 14 - Weapons
+│   ├── ArteFakes-41254-2-0-1617966810.7z
+│   ├── Believable weapons-37737-1-5-1643576065.7z
+│   ├── JS Unique Utopia SE - Daggers - 1k Textures-65394-1-2-1-1699874104.7z
+│   ├── Oblivion Artifact Pack V3-10644-V3-1601811081.rar
+│   ├── Penobscot War Bow-16391-2-2.7z
+│   ├── Radzig - Johnskyrim-16059-1-0.rar
+│   ├── tamu75 Witcher's Steel Sword-2148-1-0.zip
+│   ├── Witcher 3 - Geralt's Dual Swords.-35707-1-0-1-1588933026.rar
+│   └── WitcherGreatSword 1.1-63999-1-1-1646255691.zip
+├── 15 - Body Presets
+│   ├── BelievableBody-109289-1-1-1705532458.7z
+│   ├── BelievableBodyFlat-109289-1-1-1705537242.7z
+│   ├── BelievableBodyLarge-109289-1-1-1705532760.7z
+│   ├── CBBE FOMOD-116062-1-0-1714241193.zip
+│   ├── CSBE - Certified Swaggiest Bodyslide Ever-112814-v1-0-1709216730.rar
+│   ├── Diamond CBBE 3BA Bodyslide v1.1-48916-1-1-1633108262.7z
+│   ├── Kurone CBBE Body-46560-1-2-1618378880.7z
+│   └── Natural And Realistic Bodies - Main File ALL-IN-ONE-13896-3-0-1633906542.7z
+├── 17 - Debugging
+│   └── trainwreck-106440-1-4-0-1704691660.zip
+├── 18 - Physics
+│   ├── Faster HDT-SMP-57339-2-3-1-1715076433.7z
+│   └── FSMPM - The FSMP MCM-104462-1-2-1-1713713364.7z
+├── 19 - User Interface
+│   ├── Compass Navigation Overhaul-74484-2-2-0-1710712304.rar
+│   ├── Crafting Categories for SkyUI-81409-1-1-1-1713865527.7z
+│   ├── Infinity UI-74483-2-0-2-1710711915.rar
+│   ├── SkyHUD v090B v4-463-0-90B.zip
+│   ├── SkyUI_5_2_SE-12604-5-2SE.7z
+│   └── TrueHUD-62775-1-1-9-1703382929.7z
+├── 20 - Quality of Life
+│   ├── Better Dialogue Controls v1_2-1429-1-2.zip
+│   ├── Better MessageBox Controls v1_2-1428-1-2.zip
+│   ├── Customizable Camera 2.21-12201-2-21.zip
+│   ├── Dragon Claws Auto-Unlock (Simultaneous)-47329-1-1-1616381758.7z
+│   ├── Faster Mining Plus SE 3-3 v.2-2656-v2-0-1558296134.zip
+│   ├── I'm Talkin Here-93694-2-0-1714884217.7z
+│   ├── Remember Lockpick Angle-26838-4-2-1666611500.7z
+│   ├── Show Player In Menus-81291-2-0-3-1675683703.zip
+│   ├── Thuldor's Smithing Tweaks-116116-1-0-0-1712511306.zip
+│   ├── Witcher Meditate Wait SE-30932-1-12-1589532616.zip
+│   └── YesImSure-24898-1-7-0-1666563689.zip
+├── 22 - Camera
+│   ├── RG Medieval Camera Preset - SmoothCam 2.0-98574-2-0-1692374827.7z
+│   └── SmoothCam-41252-1-7-1667161230.zip
+├── 98 - Followers Companions
+│   ├── Ambriel Fully Voiced and Quest Version CBBE SE-969-AQSE1-06a.7z
+│   ├── Caesia SE.rar-13389-2-0b.rar
+│   ├── Gore-85298-1-612-1714494122.zip
+│   ├── Hoth-16137-3-2-1561052047.7z
+│   ├── INIGO_V2.4C SE-1461-2-4C.7z
+│   ├── Katana - Journey in the Shadows-69622-2-0-6-1698410080.7z
+│   ├── Lucien-20035-1-6-3-1636656096.rar
+│   ├── Lyssia-92898-2-1-1692182559.7z
+│   ├── Morgaine Follower-41027-2-2-3-1686909770.7z
+│   ├── My Home is Your Home-7096-.zip
+│   ├── Recorder Follower BSA Ver. 3.0-4718-3-0.7z
+│   ├── SkyMirai Standalone Follower 2_11 SSE-10908-2-11-1541905399.7z
+│   ├── Sofia Follower v.2.51 (BSA)-2180-2-51.rar
+│   ├── Song Of The Green 1.4-11278-1-4-1672934709.7z
+│   └── Vilja in Skyrim version 4.3-6722-4-3.7z
+
+23 directories, 240 files
