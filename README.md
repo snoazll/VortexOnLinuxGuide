@@ -108,8 +108,11 @@ The most important thing about flatpak is to be able to give permission to Steam
 The procedure should be done like below.
 
 (1) Set the mod staging folder under ~/Games using Vortex.
+
 (2) Move the folder into Skyrim/Fallout compatdata folder.
+
 (3) Create a symlink and move the link to ~/Games folder.
+
 (4) Cats!
 
 ## Some Thingies
