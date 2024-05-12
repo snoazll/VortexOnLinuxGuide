@@ -11,7 +11,7 @@
 │   ├── FormList Manipulator - FLM-74037-1-7-1-1690989877.zip
 │   ├── Fuz Ro D'oh-15109-2-5-1706039953.7z
 │   ├── Inventory Interface Information Injector (SE)-85702-1-1-0-1713968718.7z
-│   ├── JContainers GOG-16495-4-2-12-1710863522.7z
+│   ├── JContainers SE-16495-4-2-9-1705929247.7z
 │   ├── Keyword Item Distributor-55728-3-4-0-1710234193.7z
 │   ├── MCM Helper-53000-1-5-0-1702843613.7z
 │   ├── MergeMapper-74689-1-5-0-1683883576.7z
@@ -26,6 +26,7 @@
 ├── 01 - Foundation
 │   ├── Achievements Mods Enabler SE-AE-245-1-2-1663727254.zip
 │   ├── All in one Address Library (Anniversary Edition)-32444-11-1707902394.zip
+│   ├── BethINI Standalone Version-4875-3-6-1-1651358897.zip
 │   ├── BodySlide and Outfit Studio - v5.6.3-201-5-6-3-1693153421.7z
 │   ├── FNIS Behavior SE 7_6 XXL-3038-7-6-1582110624.7z
 │   ├── Nemesis Unlimited Behavior Engine-60033-v0-84-beta-1639426722.rar
@@ -35,12 +36,16 @@
 │   ├── Skyrim Script Extender (SKSE64)-30379-2-2-6-1705522967.7z
 │   └── XP32 Maximum Skeleton Special Extended-1988-5-06-1707663131.7z
 ├── 02 - Bodies Skins Hairs
+│   ├── Additional Dremora Faces-97946-1-3-1-1705512582.7z
+│   ├── Bijin NPCs SE 1.2.1-11287-1-2-1.7z
+│   ├── Bijin Warmaidens SE v3.1.3-1825-3-1-3.7z
 │   ├── BnP female skin 2k (CBBE Player and Replacer)-65274-2-0-1688931865.7z
 │   ├── Bosmer NPCs have antlers - FOMOD Installer-33349-0-7-1660738867.7z
 │   ├── Caliente's Beautiful Bodies Enhancer CBBE - v2.0.3-198-2-0-3-1712683181.7z
 │   ├── CBBE 3BA (3BBB)-30174-2-47-1676473395.7z
 │   ├── CBBE AE-CC Outfits-198-2-0-3-1712683252.7z
 │   ├── CBPC - Fomod installer - MAIN FILE-21224-1-6-4-1708114426.rar
+│   ├── Default Face NPCs Fixed-54515-1-17-1703294553.7z
 │   ├── Hvergelmir's Aesthetics - Beards 5.0.1-1067-5-0-1-1553198800.rar
 │   ├── KS Hairdos SSE-6817-1-9-1645369981.7z
 │   ├── Racial Body Morphs-65047-1-00-1648503549.7z
@@ -63,6 +68,7 @@
 │   ├── Environs - The Shrines of Talos-85141-3-01-1708851203.7z
 │   ├── Environs - The Western Watchtower-76261-3-00-1685320188.7z
 │   ├── ESOImports 10 0 1-11729-10-0-1-1669577218.zip
+│   ├── EVLaS-63725-1-3-1-1663514779.7z
 │   ├── Folkvangr - Grass and Landscape Overhaul-44899-1-3-1617905410.rar
 │   ├── Gildergreen Regrown-348-2-0-1-1557351574.7z
 │   ├── Immersive Laundry 1.0d SSE-2011-1-0d.7z
@@ -76,6 +82,8 @@
 │   ├── s6o6t LORE - DARaD AE ESPFE-51010-5-1-1683221879.7z
 │   ├── Simply Bigger Trees SE-5281-1-0SE.rar
 │   ├── Skyrim Flora Overhaul-2154-2-73-1672931123.7z
+│   ├── SMIM SE 2-08-659-2-08.7z
+│   ├── Snow 2k - all fixes included-82819-1-2-1673889598.7z
 │   ├── Splashes of Storms-72115-1-3-0-1666695424.7z
 │   ├── Trees in Cities - Special Edition-1941-1-0-0.zip
 │   ├── Vivid Weathers - Definitive Edition-2187-2-42-1559391607.7z
@@ -90,15 +98,17 @@
 │   ├── Dynamic Random Spell Idle - Player NPC All-77025-1-6-1707717716.zip
 │   ├── Dynamic Sprint-95561-2-2-1713084531.zip
 │   ├── Dynamic Torch Idle Animations - OAR-103080-1-3-1711669467.zip
-│   ├── EVG Animated Traversal - Framework 2.0 beta-63232-2-0b-1704695318.7z
 │   ├── EVG Animation Variance 1.1-38534-1-1-1646956058.zip
 │   ├── EVG Conditional Idles-34006-1-42-1649384249.zip
 │   ├── EVG conditionals extended-85691-1-3-1683412835.zip
 │   ├── Expressive Facegen Morphs SE-35785-1-0-1595174141.7z
 │   ├── Expressive Facial Animation - Female Edition-19181-1-7-1575746557.7z
 │   ├── Expressive Facial Animation - Male Edition-19532-1-21-1575813430.7z
+│   ├── Gesture Animation Remix (OAR) - main archive-64420-2-1-1-1708878617.zip
+│   ├── Immersive Folded Hands (OAR)-62849-1-6-1-1702779233.zip
 │   ├── Modern Female Sitting Overhaul OAR-85599-1-9-1713129336.zip
 │   ├── Movement Behavior Overhaul SE-38950-1-5-1664514459.7z
+│   ├── NPC Animation Remix (OAR) - main archive-63471-1-9-0-1714223376.zip
 │   ├── Regnante Animations Standalone Main Set OAR-75454-1-3-1713155828.zip
 │   ├── Seamless Varied Feminine Idles OAR-92226-1-4-1713110723.zip
 │   ├── Seamless Varied Masculine Idles OAR-96504-1-1-1699467882.zip
@@ -190,13 +200,6 @@
 │   ├── HAt Trick 1.0.8-81722-1-0-8-1710058180.7z
 │   └── Mirele Bismath Reborn 0.4-93817-0-4-1687564301.zip
 ├── 13 - NPC
-│   ├── Additional Dremora Faces-97946-1-3-1-1705512582.7z
-│   ├── Bijin NPCs SE 1.2.1-11287-1-2-1.7z
-│   ├── Bijin Warmaidens SE v3.1.3-1825-3-1-3.7z
-│   ├── Default Face NPCs Fixed-54515-1-17-1703294553.7z
-│   ├── Gesture Animation Remix (OAR) - main archive-64420-2-1-1-1708878617.zip
-│   ├── Immersive Folded Hands (OAR)-62849-1-6-1-1702779233.zip
-│   ├── NPC Animation Remix (OAR) - main archive-63471-1-9-0-1714223376.zip
 │   ├── SSE NoUnique Minor 2.51-92277-2-51-1688738885.7z
 │   └── SSE Unique Minor 2.52-92277-2-52-1688854122.7z
 ├── 14 - Weapons
@@ -261,5 +264,6 @@
 │   ├── Sofia Follower v.2.51 (BSA)-2180-2-51.rar
 │   ├── Song Of The Green 1.4-11278-1-4-1672934709.7z
 │   └── Vilja in Skyrim version 4.3-6722-4-3.7z
+└── skyrimSE-240511.txt
 
-23 directories, 240 files
+23 directories, 244 files
